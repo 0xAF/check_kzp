@@ -1,4 +1,7 @@
 #!/usr/bin/perl
+# Stanislav Lechev [0xAF]
+# mail: af@0xAF.org
+
 use strict;
 use Digest::MD5 qw( md5_hex );
 use File::Fetch;
